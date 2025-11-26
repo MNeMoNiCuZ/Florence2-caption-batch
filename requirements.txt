@@ -1,6 +1,6 @@
-timm
-transformers
-einops
-tqdm
-huggingface_hub
-pillow
+transformers==4.41.2
+timm==0.9.16
+einops==0.7.0
+huggingface_hub==0.23.0
+pillow==10.3.0
+tqdm==4.66.4
